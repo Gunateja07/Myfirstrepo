@@ -1,0 +1,3 @@
+ssh -i "Tony.pem" ec2-user@ec2-3-92-127-209.compute-1.amazonaws.com
+3.92.127.209
+---------------
